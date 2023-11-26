@@ -1,4 +1,4 @@
-# heatwavea-prediction
+# heatwave-prediction
 Predicting the occurence of heatwaves in Kenya using machine learning
 
 # Summary
